@@ -5,9 +5,11 @@ Using parallel algorithms and cross-linked lists to deal with large sparse matri
 
 ## Dense Matrix File Format
 
-datatype
-rowcol
-matrix
+Datatype
+
+Rowcol
+
+Matrix
 
 For an example of a float matrix float1.in
 ```

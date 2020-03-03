@@ -47,6 +47,6 @@ files will need to be passed
   - Example: ./mysolution.exe --mm -f matrix1.in matrix2.in
 3. -l Log. If present, results will be logged to file
 
-## others
+## Others
 
 More information can be seen in introduction. 

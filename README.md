@@ -6,8 +6,11 @@ Using parallel algorithms and cross-linked lists to deal with large sparse matri
 ## Dense Matrix File Format
 
 • Datatype: ”int” or ”float”
+
 • Number of rows: An integer n > 0 
+
 • Number of columns: An integer m > 0 
+
 • n × m space-separated integers/floats representing each value
 
 Datatype
